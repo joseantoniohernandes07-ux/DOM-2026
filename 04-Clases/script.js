@@ -39,7 +39,7 @@ console.log(complemento[3].classList);
 
 /* 
 
-  Podemos verificar si existe una claseen un elemento con el metodo contains()
+  Podemos verificar si existe una clase en un elemento con el metodo contains()
 
   Sintaxis:
 
